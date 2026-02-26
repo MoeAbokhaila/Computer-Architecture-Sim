@@ -1,0 +1,13 @@
+﻿Syntax Guide:
+pass||                  outputs data like a printf/cout
+kick/                grabs input from the user similar to a cin/scanf
+RightWing        String                DataType
+LeftWing        Double                DataType
+Defender        Character         DataType
+Striker                Integer                DataType
+CentreMid        Float                DataType
++                Adds
+-                Subtracts
+/                Divides
+*                Multiplies
+==                Compares
