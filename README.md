@@ -47,3 +47,12 @@ Custom stream operators were developed to replace standard I/O:
 The project requires a C++11 compliant compiler or higher.
 ```bash
 g++ -std=c++11 main.cpp -o SoccerVM
+```
+
+### Run
+
+```bash
+./SoccerVM
+```
+
+The sample in `main.cpp` demonstrates arithmetic and comparisons. See [Instructions.txt](Instructions.txt) for the syntax guide.
